@@ -1,6 +1,6 @@
 ﻿# AlgorithmVisualizer
 ## Version 0.1 (GUI)
-![Image of GUI] (https://i.imgur.com/LZsbrDP.png)
+![Image of GUI](https://i.imgur.com/LZsbrDP.png)
 
 - [x] Gui of main application
 - [ ] Gui of grid for algorithms
