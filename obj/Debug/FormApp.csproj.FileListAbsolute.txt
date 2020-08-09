@@ -1,0 +1,10 @@
+C:\Users\alxhi\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\alxhi\source\repos\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\alxhi\source\repos\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.csprojAssemblyReference.cache
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.Algorithm.resources
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\alxhi\source\repos\FormApp\FormApp\obj\Debug\FormApp.pdb
